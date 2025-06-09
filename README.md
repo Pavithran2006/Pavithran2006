@@ -1,22 +1,48 @@
 # 👋 Welcome to My GitHub Profile!  
 
-Hi, I'm Pavithran M – a passionate Information Technology Student with a knack for Web Development.
+Hi, I'm Pavithran M – a passionate **Information Technology Student** with a knack for **Web Development** and **Problem Solving**.
 
-🌟 **What I Do**  
-- 💻 I specialize in front end development.  
-- 🚀 Currently, I’m pursuing B.Tech Information Technology in College of Engineering,Guindy,Anna University.  
-- 📚 Lifelong learner who loves diving into new technologies.
+---
 
-📂 **Repositories to Explore**  
-- **[Your Cool Project Name](link)**: A brief description of your best project.  
-- **[Another Cool Project](link)**: Another awesome project to showcase.  
+### 🌟 **What I Do**  
+- 💻 **Frontend Development**: HTML, CSS, JavaScript, React.  
+- 🚀 **Backend & Databases**: Node.js, MongoDB.  
+- 🏆 **Competitive Programming**: LeetCode.  
+- 📚 **Currently Learning**: Advanced DSA.  
 
-🔗 **Connect with Me**  
-- 🌐 Portfolio Website https://darkportfolio.weebly.com/about.html  
-- 💼 LinkedIn Profile https://www.linkedin.com/in/pavithran-m-824bb82a8/
-- 🐦 Instagram Profile https://www.instagram.com/pavithran_m06/ 
-- 📫 How to reach me: email:pavithranm53@gmail.com
-  
-📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavithran2006&show_icons=true&theme=radical)  
+---
+
+### 🏗️ **Featured Projects**  
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| **[Project Name](link)** | A brief description. | React, Node.js |  
+| **[Another Project](link)** | Another cool project. | Python, Flask |  
+
+---
+
+### 🔗 **Connect with Me**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-brightgreen?style=flat)](https://darkportfolio.weebly.com/about.html)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavithran-m-824bb82a8/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/pavithran_m06/)  
+📫 **Email**: [pavithranm53@gmail.com](mailto:pavithranm53@gmail.com)  
+
+---
+
+### 📊 **GitHub & LeetCode Stats**  
+
+#### **GitHub Activity**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithran2006&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran2006&layout=compact&theme=radical)  
+
+#### **LeetCode Progress**  
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=Pavithran1403&theme=dark&font=baloo)  
+
+---
+
+### 🛠️ **Tech Stack**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+---
