@@ -22,7 +22,6 @@ Hi, I'm Pavithran M – a passionate **Information Technology Student** with a k
 ---
 
 ### 🔗 **Connect with Me**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-brightgreen?style=flat)](https://darkportfolio.weebly.com/about.html)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](Linkedin:www.linkedin.com/in/pavithran-m-824bb82a8)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/pavithran_m06/)  
 📫 **Email**: [pavithranm53@gmail.com](mailto:pavithranm53@gmail.com)  
