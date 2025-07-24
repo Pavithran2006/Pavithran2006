@@ -4,11 +4,12 @@ Hi, I'm Pavithran M – a passionate **Information Technology Student** with a k
 
 ---
 
-### 🌟 **What I Do**  
+### 🌟 **What I Know**  
 - 💻 **Frontend Development**: HTML, CSS, JavaScript, React.  
-- 🚀 **Backend & Databases**: Node.js, MongoDB.  
+- 🚀 **Backend & Databases**: Node.js,PostgreSQL
+- 🧑‍💻 **Programming Languages**: Python,C++,C
 - 🏆 **Competitive Programming**: LeetCode.  
-- 📚 **Currently Learning**: Advanced DSA.  
+- 📚 **Currently Learning**: Advanced DSA,Machine Learning  
 
 ---
 
@@ -22,7 +23,7 @@ Hi, I'm Pavithran M – a passionate **Information Technology Student** with a k
 
 ### 🔗 **Connect with Me**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-brightgreen?style=flat)](https://darkportfolio.weebly.com/about.html)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavithran-m-824bb82a8/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](Linkedin:www.linkedin.com/in/pavithran-m-824bb82a8)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/pavithran_m06/)  
 📫 **Email**: [pavithranm53@gmail.com](mailto:pavithranm53@gmail.com)  
 
