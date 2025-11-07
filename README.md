@@ -6,18 +6,19 @@ Hi, I'm Pavithran M – a passionate **Information Technology Student** with a k
 
 ### 🌟 **What I Know**  
 - 💻 **Frontend Development**: HTML, CSS, JavaScript, React.  
-- 🚀 **Backend & Databases**: Node.js,PostgreSQL
+- 🚀 **Backend & Databases**: Node.js,PostgreSQL,MongoDB
 - 🧑‍💻 **Programming Languages**: Python,C++,C
 - 🏆 **Competitive Programming**: LeetCode.  
-- 📚 **Currently Learning**: Advanced DSA,Machine Learning  
+- 📚 **Currently Learning**: Advanced DSA,Machine Learning,Web Programming
 
 ---
 
 ### 🏗️ **Featured Projects**  
 | Project | Description | Tech Stack |  
 |---------|-------------|------------|  
-| **[Project Name](link)** | A brief description. | React, Node.js |  
-| **[Another Project](link)** | Another cool project. | Python, Flask |  
+| **[Next Step - TNEA Helper](https://next-step-tnea-lbuezy1v7-pavithran2006s-projects.vercel.app/explorer)** | A complete guide to TNEA Engineering Counselling to help students for engineering college admissions  | Next.js, Tailwind, MongoDB |  
+| **[Pharmacart - Online Pharmacy](https://72358da4.pharmacart-online-medical-store.pages.dev/)** |  Developed a full-stack React-based e-commerce platform for purchasing medicines and healthcare products | React,Bootstrap |  
+| **[Duplicate Line Remover](https://duplicateline.pages.dev/)** |  Developed a full-stack React-based e-commerce platform for purchasing medicines and healthcare products | React,BootStrap| 
 
 ---
 
